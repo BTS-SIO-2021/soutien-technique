@@ -18,7 +18,7 @@ Par conséquent, voilà ce que tu vas faire :
  
  * *Décris le plus précisement ton problème*
  * *Sur quel CMS / framework / bibliothèque / ou langage de programmation travailles-tu ?* 
- * *Quel(s) message(s) d'erreur apparait ?
+ * *Quel(s) message(s) d'erreur apparait ?*
  * *Qu'as-tu essayé de mettre en place pour résoudre le problème et avec quels résultats ?*
  * *As-tu consulté des sources pour t'aider ? Si oui lesquelles ?*
 
