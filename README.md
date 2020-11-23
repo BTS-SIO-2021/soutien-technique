@@ -14,7 +14,7 @@ Par conséquent, voilà ce que tu vas faire :
 
 - **tu vas dans l'onglet Issues de ce repo et tu créés une nouvelle issue (gros boutons vert New Issue) **
 - là tu écris un titre explicite de ton problème
-- ensuite dans le corps tu décris ton problème en reprenant et en répondant à ces questions :
+- ensuite dans le corps tu décris ton problème en reprenant et en répondant à ces questions (j'insiste tu reprends les questions et tu écris en dessous tes commentaires)
  
  * *Décris le plus précisement ton problème*
  * *Sur quel CMS / framework / bibliothèque / ou langage de programmation travailles-tu ?* 
@@ -22,4 +22,5 @@ Par conséquent, voilà ce que tu vas faire :
  * *Qu'as-tu essayé de mettre en place pour résoudre le problème et avec quels résultats ?*
  * *As-tu consulté des sources pour t'aider ? Si oui lesquelles ?*
 
-- nous t'aiderons via cette issue dès que noous serons disponibles. 
+- n'oublie pas de soumettre ton issue une fois terminée
+- nous t'aiderons via cette issue dès que nous serons disponibles. 
